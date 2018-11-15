@@ -1,17 +1,19 @@
 #!/bin/bash
 
+git checkout master
+git pull origin master
+
 DATE=`date +%Y%m%d`
 
-curl https://www.nseindia.com/live_market/dynaContent/live_analysis/oi_spurts/topPositiveOIChangeData.json > oi/$DATE.csv
-
 #Delivery
+curl https://nseindia.com/archives/equities/mto/MTO_`date +%d%m%Y`.DAT > delivery/$DATE.csv
 echo "Record Type,Sr No,Name of Security, Type of Security, Quantity Traded,Deliverable Quantity(gross across client level),% of Deliverable Quantity to Traded Quantity" > temp.csv
 sed '1,4d' delivery/$DATE.csv >> temp.csv
 mv temp.csv delivery/$DATE.csv
 
 #OI
 echo "Symbol, LatestOI, PrevOI, OIChange, %OIChange, Volume, IsFO" > temp.csv
-curl https://nseindia.com/archives/equities/mto/MTO_`date +%d%m%Y`.DAT | jq -r '.data[] | [.symbol, .latestOI, .prevOI, .oiChange, .percOIchange, .volume, .isFO] | @csv' >> temp.csv
+curl https://www.nseindia.com/live_market/dynaContent/live_analysis/oi_spurts/topPositiveOIChangeData.json | jq -r '.data[] | [.symbol, .latestOI, .prevOI, .oiChange, .percOIchange, .volume, .isFO] | @csv' >> temp.csv
 mv temp.csv oi/$DATE.csv
 
 #OHL/FO
