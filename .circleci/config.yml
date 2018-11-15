@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  build:
+  run:
     working_directory: ~/stock-reporter
     docker:
       - image: circleci/node:8-jessie-browsers
@@ -12,3 +12,15 @@ jobs:
       - run:
           name: Fetching reports
           command: ./statsCollector.sh
+workflows:
+   version: 2
+   nightly:
+     triggers:
+       - schedule:
+           cron: "0 0 * * *"
+           filters:
+             branches:
+               only:
+                 - master
+     jobs:
+       - run
