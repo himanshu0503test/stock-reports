@@ -4,6 +4,7 @@
 git log -1 > lastCommitMessage
 if grep -Fxq "Bot" lastCommitMessage
 then
+    echo "Exiting as the committer is a BOT"
     exit 0
 else
     rm lastCommitMessage
