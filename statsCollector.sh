@@ -24,5 +24,5 @@ git config credential.helper 'cache --timeout=120'
 git config user.email "<email>"
 git config user.name "Bot"
 git add .
-git commit --allow-empty -m "[skip travis] Data for $DATE"
+git commit -m "[skip travis] Data for $DATE"
 git push -q https://${REPORTS_PERSONAL_TOKEN}@github.com/himanshu0503test/stock-reports.git master
