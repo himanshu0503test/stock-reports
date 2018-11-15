@@ -7,6 +7,7 @@ then
     echo "Exiting as the committer is a BOT"
     exit 0
 else
+    echo "Standard Commit"
     rm lastCommitMessage
 fi
 
