@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 #Don't run for commits by Bot
 git log -1 > lastCommitMessage
 if grep -Fxq "Bot" lastCommitMessage
