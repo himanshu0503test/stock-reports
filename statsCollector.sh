@@ -12,7 +12,7 @@ mv temp.csv delivery/$DATE.csv
 #Parsing OI File Correctly
 echo "Symbol, LatestOI, PrevOI, OIChange, %OIChange, Volume, IsFO" > temp.csv
 cat oi/$DATE.csv | jq -r '.data[] | [.symbol, .latestOI, .prevOI, .oiChange, .percOIchange, .volume, .isFO] | @csv' >> temp.csv
-mv temp oi/$DATE.csv
+mv temp.csv oi/$DATE.csv
 
 git config credential.helper 'cache --timeout=120'
 git config user.email "<email>"
