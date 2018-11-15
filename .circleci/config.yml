@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  run:
+  build:
     working_directory: ~/stock-reporter
     docker:
       - image: circleci/node:8-jessie-browsers
@@ -23,4 +23,4 @@ workflows:
                only:
                  - master
      jobs:
-       - run
+       - build
