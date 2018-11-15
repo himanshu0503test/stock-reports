@@ -1,4 +1,4 @@
-Record Type,Sr No,Name of Security,Quantity Traded,Deliverable Quantity(gross across client level),% of Deliverable Quantity to Traded Quantity
+Record Type,Sr No,Name of Security, Type of Security, Quantity Traded,Deliverable Quantity(gross across client level),% of Deliverable Quantity to Traded Quantity
 20,1,20MICRONS,EQ,15856,11420,72.02
 20,2,21STCENMGM,EQ,2915,2781,95.40
 20,3,3IINFOTECH,EQ,15463566,6834485,44.20
