@@ -1,17 +1,17 @@
 #!/bin/bash
 
 #Don't run for commits by Bot
-git log -1 > lastCommitMessage
-if grep -Fxq "Bot" lastCommitMessage
-then
-    echo "Exiting as the committer is a BOT"
-    exit 0
-else
-    echo "Standard Commit"
-    rm lastCommitMessage
-fi
-cat lastCommitMessage
-exit 0
+#git log -1 > lastCommitMessage
+#if grep -Fxq "Bot" lastCommitMessage
+#then
+#    echo "Exiting as the committer is a BOT"
+#    exit 0
+#else
+#    echo "Standard Commit"
+#    rm lastCommitMessage
+#fi
+#cat lastCommitMessage
+#exit 0
 
 DATE=`date +%Y%m%d`
 
@@ -32,5 +32,5 @@ git config credential.helper 'cache --timeout=120'
 git config user.email "<email>"
 git config user.name "Bot"
 git add .
-git commit --allow-empty -m "Data for $DATE"
+git commit --allow-empty -m "[skip travis] Data for $DATE"
 git push -q https://${REPORTS_PERSONAL_TOKEN}@github.com/himanshu0503test/stock-reports.git master
