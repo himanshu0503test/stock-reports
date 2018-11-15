@@ -10,6 +10,8 @@ else
     echo "Standard Commit"
     rm lastCommitMessage
 fi
+cat lastCommitMessage
+exit 0
 
 DATE=`date +%Y%m%d`
 
