@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: ~/stock-reporter
     docker:
-      - image: circleci/node:4.8.2-jessie
+      - image: circleci/node:8-jessie-browsers
     steps:
       - checkout
       - run:
