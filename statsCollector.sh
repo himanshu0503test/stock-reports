@@ -25,4 +25,5 @@ git config user.email "<email>"
 git config user.name "Bot"
 git add .
 git commit -m "[skip travis] Data for $DATE"
-git push -q https://${REPORTS_PERSONAL_TOKEN}@github.com/himanshu0503test/stock-reports.git master
+git push https://${REPORTS_PERSONAL_TOKEN}@github.com/himanshu0503test/stock-reports.git master
+echo "Committed Successfully"
