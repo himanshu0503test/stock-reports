@@ -1,18 +1,5 @@
 #!/bin/bash
 
-#Don't run for commits by Bot
-#git log -1 > lastCommitMessage
-#if grep -Fxq "Bot" lastCommitMessage
-#then
-#    echo "Exiting as the committer is a BOT"
-#    exit 0
-#else
-#    echo "Standard Commit"
-#    rm lastCommitMessage
-#fi
-#cat lastCommitMessage
-#exit 0
-
 DATE=`date +%Y%m%d`
 
 curl https://www.nseindia.com/live_market/dynaContent/live_analysis/oi_spurts/topPositiveOIChangeData.json > oi/$DATE.csv
