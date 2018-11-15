@@ -1,4 +1,15 @@
 #!/bin/bash
+
+
+#Don't run for commits by Bot
+git log -1 > lastCommitMessage
+if grep -Fxq "Bot" lastCommitMessage
+then
+    exit 0
+else
+    rm lastCommitMessage
+fi
+
 DATE=`date +%Y%m%d`
 
 curl https://www.nseindia.com/live_market/dynaContent/live_analysis/oi_spurts/topPositiveOIChangeData.json > oi/$DATE.csv
