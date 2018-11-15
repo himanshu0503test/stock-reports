@@ -1,8 +1,6 @@
 #!/bin/bash
 DATE=`date +%Y%m%d`
 
-mkdir oi delivery
-
 curl https://www.nseindia.com/live_market/dynaContent/live_analysis/oi_spurts/topPositiveOIChangeData.json > oi/$DATE.json
 curl https://nseindia.com/archives/equities/mto/MTO_`date +%d%m%Y`.DAT > delivery/$DATE.csv
 
