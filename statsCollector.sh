@@ -12,8 +12,8 @@ sed '1,4d' delivery/$DATE.csv >> temp.csv
 mv temp.csv delivery/$DATE.csv
 
 #OI
-echo "Symbol, LatestOI, PrevOI, OIChange, %OIChange, Volume, IsFO" > temp.csv
-curl https://www.nseindia.com/live_market/dynaContent/live_analysis/oi_spurts/topPositiveOIChangeData.json | jq -r '.data[] | [.symbol, .latestOI, .prevOI, .oiChange, .percOIchange, .volume, .isFO] | @csv' >> temp.csv
+echo "Symbol, LatestOI, PrevOI, OIChange, %OIChange, Volume" > temp.csv
+curl https://www.nseindia.com/live_market/dynaContent/live_analysis/oi_spurts/topPositiveOIChangeData.json | jq -r '.data[] | [.symbol, .latestOI, .prevOI, .oiChange, .percOIchange, .volume] | @csv' | sort >> temp.csv
 mv temp.csv oi/$DATE.csv
 
 #OHL/FO
