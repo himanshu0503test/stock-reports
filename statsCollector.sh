@@ -17,8 +17,8 @@ curl https://www.nseindia.com/live_market/dynaContent/live_analysis/oi_spurts/to
 mv temp.csv oi/$DATE.csv
 
 #OHL/FO
-echo "Symbol, Open, High, Low, LTP, Change(InPts), Change(%), 52 Week High, 52 Week Low, Change in 365 days (%), Change in 30 days(%), Ex-Dividend-Date, Divident" > temp.csv
-curl https://www.nseindia.com/live_market/dynaContent/live_watch/stock_watch/foSecStockWatch.json | jq -r '.data[] | [.symbol, .open, .high, .low, .ltP, .ptsC, .per, .wkhi, .wklo, .yPC, .mpC, .xDt, .cAct] | @csv' | sort >> temp.csv
+echo "Symbol, Open, High, Low, LTP, Change(InPts), Change(%), 52 Week High, 52 Week Low, Change in 365 days (%), Change in 30 days(%), Date, Announcement" > temp.csv
+curl https://www.nseindia.com/live_market/dynaContent/live_watch/stock_watch/foSecStockWatch.json | jq -r '.data[] | [.symbol, .open, .high, .low, .ltP, .ptsC, .per, .wkhi, .wklo, .yPC, .mPC, .xDt, .cAct] | @csv' | sort >> temp.csv
 mv temp.csv ohl/fo/$DATE.csv
 
 
