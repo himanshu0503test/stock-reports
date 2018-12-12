@@ -13,12 +13,12 @@ mv temp.csv delivery/$DATE.csv
 
 #OI
 echo "Symbol, LatestOI, PrevOI, OIChange, %OIChange, Volume" > temp.csv
-curl https://www.nseindia.com/live_market/dynaContent/live_analysis/oi_spurts/topPositiveOIChangeData.json | jq -r '.data[] | [.symbol, .latestOI, .prevOI, .oiChange, .percOIchange, .volume] | @csv' | sort >> temp.csv
+curl https://www.nseindia.com/live_market/dynaContent/live_analysis/oi_spurts/topPositiveOIChangeData.json | jq -r '.data[] | [.symbol, .latestOI, .prevOI, .oiChange, .percOIchange, .volume] | @csv' | sort | awk -F'"' -v OFS='' '{ for (i=2; i<=NF; i+=2) gsub(",", "", $i) } 1' >> temp.csv
 mv temp.csv oi/$DATE.csv
 
 #OHL/FO
 echo "Symbol, Open, High, Low, LTP, Change(InPts), Change(%), 52 Week High, 52 Week Low, Change in 365 days (%), Change in 30 days(%), Date, Announcement" > temp.csv
-curl https://www.nseindia.com/live_market/dynaContent/live_watch/stock_watch/foSecStockWatch.json | jq -r '.data[] | [.symbol, .open, .high, .low, .ltP, .ptsC, .per, .wkhi, .wklo, .yPC, .mPC, .xDt, .cAct] | @csv' | sort >> temp.csv
+curl https://www.nseindia.com/live_market/dynaContent/live_watch/stock_watch/foSecStockWatch.json | jq -r '.data[] | [.symbol, .open, .high, .low, .ltP, .ptsC, .per, .wkhi, .wklo, .yPC, .mPC, .xDt, .cAct] | @csv' | sort | awk -F'"' -v OFS='' '{ for (i=2; i<=NF; i+=2) gsub(",", "", $i) } 1' >> temp.csv
 mv temp.csv ohl/fo/$DATE.csv
 
 
