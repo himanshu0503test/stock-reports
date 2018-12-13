@@ -15,9 +15,5 @@ awk -F "\"*,\"*" '{print $3","$4","$5","$6","$7 }' delivery/$DATE.csv | grep 'EQ
   join -t, <(sed 1d "d04.csv" | sort) <(sed 1d "ohl/fo/$DATE.csv" | sort)
 } > d05.csv
 
-#echo "Symbol,Delivery(%), Delivery Volume,OIChange(%),PriceChange(%)" > $DATE.csv
-awk -F ',' '{print $1","$5","$4","$9","$16}' d05.csv >> $DATE.csv
-cat $DATE.csv
-
-
-#awk -F "," '{print $1","$5" ,"$9}' d05.csv
+awk -F ',' '{print $1","$5","$4","$9","$16}' d05.csv > $DATE.csv
+rm d04.csv d05.csv temp-delivery.csv
