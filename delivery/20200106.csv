@@ -1,0 +1,2466 @@
+Record Type,Sr No,Name of Security, Type of Security, Quantity Traded,Deliverable Quantity(gross across client level),% of Deliverable Quantity to Traded Quantity
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+<title>NSE - Page Not Found</title>
+<meta name="description" content=""/>
+<meta name="keywords" content="" />
+<meta name="robots" content="index,follow"/>
+<link rel="shortcut icon" href="https://www.nseindia.com/favicon.ico" type="image/x-icon"/>
+<meta property="og:title" content=""/>
+<meta property="og:description" content=""/>
+<meta property="og:image" content=""/>
+<meta property="og:url" content=""/>
+<meta property="og:site_name" content="NSE India"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:domain" content="NSE India"/>
+<meta name="twitter:image" content=""/>
+<meta property="twitter:site" content="@NSEIndia" />
+<meta itemprop="name" content="" />
+<meta itemprop="description" content="" />
+<meta itemprop="image" content="">
+<meta property="fb:app_id" content="XXX"/>
+<meta name="author" content="NSE India">
+<meta name="apple-itunes-app" content="app-id=XXX">
+<meta name="google-play-app" content="app-id= XXX">
+<meta name="msApplication-ID" content="App"/>
+<meta name="msApplication-PackageFamilyName" content="XXX"/>
+<meta name="msapplication-TileImage" content="XXX"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta http-equiv="content-language" content="en-in"/>
+<META NAME="geo.position" CONTENT=" 19.0705638;72.8556971 ">
+<META NAME="geo.placename" CONTENT="Mumbai">
+<META NAME="geo.region" CONTENT="IN-MH">
+<link rel="alternate" hreflang="en" href="https://www.nseindia.com/">
+<link rel="canonical" href="http://nseindia.com/archives/equities/mto/MTO_06012020.DAT"/>
+<link rel="alternate" href="android-app:// XXX" />
+
+
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
+<link href="/assets/css/gijgo.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/assets/css/slick.css"/>
+<link rel="stylesheet" href="/assets/css/jquery.mCustomScrollbar.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap-multiselect.css" />
+<link href="/assets/css/style.css" rel="stylesheet">
+    <script>
+  (function(){
+    if(window.BOOMR && window.BOOMR.version){return;}
+    var dom,doc,where,iframe = document.createElement("iframe"),win = window;
+  
+    function boomerangSaveLoadTime(e) {
+      win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+    }
+    if (win.addEventListener) {
+      win.addEventListener("load", boomerangSaveLoadTime, false);
+    } else if (win.attachEvent) {
+      win.attachEvent("onload", boomerangSaveLoadTime);
+    }
+  
+    iframe.src = "javascript:false";
+    iframe.title = ""; iframe.role="presentation";
+    (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+    where = document.getElementsByTagName("script")[0];
+    where.parentNode.insertBefore(iframe, where);
+  
+    try {
+      doc = iframe.contentWindow.document;
+    } catch(e) {
+      dom = document.domain;
+      iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+      doc = iframe.contentWindow.document;
+    }
+    doc.open()._l = function() {
+      var js = this.createElement("script");
+      if(dom) this.domain = dom;
+      js.id = "boomr-if-as";
+      js.src = "https://c.go-mpulse.net/boomerang/" +
+      "RF6LV-Y7HBS-S5S4P-HB5LE-V8XXL";
+      BOOMR_lstart=new Date().getTime();
+      this.body.appendChild(js);
+    };
+    doc.write('<body onload="document._l();">');
+    doc.close();
+  })();
+</script>
+
+
+    <script>
+        window.headerData = {"marketStatus":{"marketState":[{"market":"Capital Market","marketStatus":"Closed","tradeDate":"07-Jan-2020","index":"NIFTY 50","last":11993.05,"variation":-233.60000000000036,"percentChange":-1.91,"marketStatusMessage":"Normal Market has Closed"},{"market":"Currency","marketStatus":"Closed","tradeDate":"07-Jan-2020","index":"","last":"","variation":"","percentChange":"","marketStatusMessage":"Market is Closed"},{"market":"Commodity","marketStatus":"Open","tradeDate":"06-Jan-2020","index":"","last":"","variation":"","percentChange":"","marketStatusMessage":"Market is Open"},{"market":"Debt","marketStatus":"Closed","tradeDate":"07-Jan-2020","index":"","last":"","variation":"","percentChange":"","marketStatusMessage":"Market is Closed"}]},"ejsHelpers":{"util":{}}}
+    </script>
+    <script src="/dist/js/blinkui/src/blinkui.js"></script>
+    <script src="/assets/js/nse-min.js"></script>
+    <!-- <script src="/dist/js/components/custom-table-accordion.js" async></script>
+    <script src="/dist/js/components/custom-tabs.js" async></script>
+    <script src="/dist/js/components/custom-filter-panel.js" async></script>
+    <script src="/dist/js/components/derivatives-filter-panel.js" async></script>
+    <script src="/dist/js/components/custom-table-nohead.js" async></script>
+    <script src="/dist/js/components/custom-card.js" async></script>
+    <script src="/dist/js/components/getquotes-equity.js" async></script>
+    <script src="/dist/js/components/quote-derivative/market-depth.js" async></script>
+    <script src="/dist/js/components/quote-slb/market-depth.js" async></script>
+    <script src="/dist/js/components/quote-bonds/market-depth.js" async></script>
+    <script src="/dist/js/components/quote-equity/corp-governance.js" async></script>
+    <script src="/dist/js/components/quote-equity/corp-votingDetail.js" async></script>
+    <script src="/dist/js/components/live-market/pre-open-market.js" async></script>
+    <script src="/dist/js/components/quote-currency/market-depth.js" async></script>
+    <script src="/dist/js/components/quote-commodity/market-depth.js" async></script>
+    <script src="/dist/js/components/table_accord.js" async></script>
+    <script src="/dist/js/components/custom-table.js"></script>
+    <script src="/dist/js/components/hover-table.js"></script> -->
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NDBTGWW');</script>
+    <!-- End Google Tag Manager -->
+
+</head>
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NDBTGWW"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="pageLoader"><div class="loader-wrp"><div class="spin-loader" aria-hidden="true"></div></div></div>
+<div id="betaVerBand">YOU ARE ON THE NEW NSE WEBSITE, ACCESS THE OLD WEBSITE ON THE URL <a>www1.nseindia.com</a> OR <a href="https://www1.nseindia.com/index_nse.htm " target="_blank">CLICK HERE</a></div>
+<header>
+    <nav class="navbar navbar-expand-md navbar-light">
+        <div class="container top_logomenu">
+            <a class="navbar-brand mr-auto" href="/"><img src="/assets/images/NSE_Logo.svg" width="128" height="44"
+                                                          alt="NSE India"
+                                                          title="NSE India, National Stock Exchange"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main_navbar"
+                    aria-controls="main_navbar" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span></button>
+
+            <div class="middleheader">
+                <div class="searchbox">
+                    <div class="inputbox">
+                        <input id="header-search-input" autocomplete="off" class="typeahead" type="text" placeholder="Search by company name, symbol or keyword">
+                        <button><img src="/assets/images/Get_Quote_search.svg" width="24" height="24" alt="" /></button>
+                    </div>
+                    <div id="autoComplete" class="searchAuto"><ul id="autoCompleteBlock"></ul></div>
+                </div>
+            </div>
+
+            
+                <div id="nseMarketStatus" class="form-inline top-right ml-auto my-2 my-lg-0 niftyMarket">
+                    <div class="innerContainer">
+                        
+                        <div class="form-inline niftyFifty">
+                            <div class="logo_with_text">
+                                
+                                    <figure class="capitalLogo">
+                                        <img src="/assets/images/logo_nifty50.png"
+                                             alt="NIFTY 50"
+                                             title="NIFTY 50">
+                                    </figure>
+                                    <p id="capMarStat" class="redTxt">Normal Market has Closed</p>
+                                
+
+                            </div>
+                            <div class="head-carousel">
+                                <div class="mkt_widget">
+                                    
+                                    <div id="marketStat0" class="widget_head">
+                                        <div class="index_val">
+                                            <span class="val ltp">11,993.05
+                                                <i class="fa fa-caret-down cool-red"></i>
+                                            </span>
+                                        </div>
+                                        <div class="incr_dcr">
+                                            <span class="per redTxt">-233.60 (-1.91%)</span>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="widget_body">
+                                        <p class="next_date">Next
+                                            Trading Date - 07-Jan-2020</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="form-inline niftyFifty">
+                            <div class="logo_with_text">
+                                
+                                    <figure class="currencyLogo">
+                                        <img src="/assets/images/logo_currencyDer.png"
+                                             alt="Currency Derivative"
+                                             title="Currency Derivative">
+                                    </figure>
+                                    <p class="redTxt">Currency Market is Closed</p>
+                                
+
+                            </div>
+                            <div class="head-carousel">
+                                <div class="mkt_widget">
+                                    
+                                    <div class="widget_body">
+                                        <p class="next_date">Next
+                                            Trading Date - 07-Jan-2020</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="form-inline niftyFifty">
+                            <div class="logo_with_text">
+                                
+                                    <figure class="commodityLogo">
+                                        <img src="/assets/images/logo_commodityDer.png"
+                                             alt="Commodity Derivative"
+                                             title="Commodity Derivative">
+                                    </figure>
+                                    <p class="greenTxt">Commodity Market is Open</p>
+                                
+
+                            </div>
+                            <div class="head-carousel">
+                                <div class="mkt_widget">
+                                    
+                                    <div class="widget_body">
+                                        <p class="next_date">Current
+                                            Trading Date - 06-Jan-2020</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="form-inline niftyFifty">
+                            <div class="logo_with_text">
+                                <figure class="commodityLogo">
+                                        <img src="/assets/images/nse-debt-market-logo.png"
+                                             alt="Debt Market"
+                                             title="Debt Market">
+                                    </figure>
+                                    <p class="redTxt">Debt Market is Closed</p>
+                                
+
+                            </div>
+                            <div class="head-carousel">
+                                <div class="mkt_widget">
+                                    
+                                    <div class="widget_body">
+                                        <p class="next_date">Next
+                                            Trading Date - 07-Jan-2020</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            
+            <!--<div class="form-inline top-right ml-auto my-2 my-lg-0"></div>-->
+        </div>
+        <div class="container-fluid">
+            <div class="container navlinks-container posrel">
+                <div class="collapse navbar-collapse" id="main_navbar">
+                    <ul class="navbar-nav mr-auto">
+                        
+                            <li class="nav-item   ">
+                                <a class="nav-link dd-link" href="/">Home</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <div class="container">
+                                        <div class="row mrow">
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </li>
+                        
+                            <li class="nav-item dropdown  ">
+                                <a class="nav-link dd-link" href="javascript:;">Market Data</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <div class="container">
+                                        <div class="row mrow">
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Market Watch</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/market-data/pre-open-market-cm-and-emerge-market">Pre-Open Market</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/market-data/live-equity-market">Equity &amp; SME Market</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/market-data/equity-derivatives-watch">Derivatives Market</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/market-data/live-market-indices">Indices</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/market-data/bonds-traded-in-capital-market">Fixed Income &amp; Debt Market</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/market-data/stocks-in-call-auction">Call Auction for Illiquid Securities</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/market-data/securities-lending-and-borrowing">Securities Lending &amp; Borrowing</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Trade Information</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/market-data/securities-available-for-trading">Securities available for Trading</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/market-data/securities-information-contracts-available-for-trading">Contracts available for Trading</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/regulations/exchange-market-surveillance-actions">Price Bands &amp; Surveillance Actions</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/all-reports/historical-equities-fii-fpi-dii-trading-activity">Position/Investment Limits</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/market-data/new-stock-exchange-listings-today">New Listings</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Market Data</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/all-reports">Daily Market Reports</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/market-data/real-time-data-subscription">Paid Real Time Data</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/market-data/eod-historical-data-subscription">Paid Historical Data</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/market-data/corporate-data-subscription">Paid Corporate Data</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/market-data/data-subscription-fees">Data Subscription</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                        <div class="btm_row_ddmenu">
+                                            <div class="container">
+                                                <div class="row">
+                                                    
+                                                        <div class="col-md-4 menuFootNote">
+                                                            <div class="content">
+                                                                <a href="https://www.nseindia.com/market-data/analysis-and-tools-capital-market-snapshot">
+                                                                    <figure>
+                                                                        <img src="https://static.nseindia.com/s3fs-public/2019-07/market-snapshot_0.png" alt="Market Snapshot">
+                                                                    </figure>
+                                                                    <h4>Market Snapshot</h4>
+                                                                    <p>Live Analysis of top gainers/losers, most active securities/contracts, price band hitters, overview of the market.</p>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    
+                                                        <div class="col-md-4 menuFootNote">
+                                                            <div class="content">
+                                                                <a href="https://www.nseindia.com/option-chain">
+                                                                    <figure>
+                                                                        <img src="https://static.nseindia.com/s3fs-public/2019-07/option-chain_0.png" alt="Option Chain">
+                                                                    </figure>
+                                                                    <h4>Option Chain</h4>
+                                                                    <p>View Option chain for the exchange</p>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    
+                                                        <div class="col-md-4 menuFootNote">
+                                                            <div class="content">
+                                                                <a href="https://www1.nseindia.com/ChartApp/install/charts/mainpage.jsp">
+                                                                    <figure>
+                                                                        <img src="https://static.nseindia.com/s3fs-public/2019-07/tech-chart_0.png" alt="Technical Charts">
+                                                                    </figure>
+                                                                    <h4>Technical Charts</h4>
+                                                                    <p>View this section for the technical charts of the market performance</p>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </li>
+                        
+                            <li class="nav-item dropdown  ">
+                                <a class="nav-link dd-link" href="javascript:;">Invest</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <div class="container">
+                                        <div class="row mrow">
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>First time Investor</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/first-time-investor-getting-started">How to open an Trading account</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/first-time-investor-know-your-rights">Protection from Fraud</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/investors-awareness-programmes">Investor Awareness Programmes</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/first-time-investor-stamp-duty-charges-taxes">Charges and Taxes</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/first-time-investor-foreign-investment-limits">Investment limits for FIIs</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/first-time-investor-give-feedback">Give Feedback</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Resources &amp; Tools</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/find-a-stock-broker">Find a Stock Broker</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/company-listing-directory-resources-for-investors">Company Directory</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/first-time-investor-trade-verification">Check Trades/ Bids</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/exit-option-for-share-holders">Exit Option for shareholders</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/investors-regulatory-actions">Regulatory Actions</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/first-time-investor-nse-mobile-app">NSE Mobile Application</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Making a Complaint</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/process-of-making-a-complaint">Process</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/file-a-complaint-online">File a Complaint Online</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/download-complaint-form-for-offline-registration">Download Complaint Form</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/investor-service-cells-committees-panel">Committees/ Panels</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/about-arbitration">Arbitration</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/about-defaulter-section">Defaulter / Expelled Members</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                        <div class="btm_row_ddmenu">
+                                            <div class="container">
+                                                <div class="row">
+                                                    
+                                                        <div class="col-md-4 menuFootNote">
+                                                            <div class="content">
+                                                                <a href="https://www.nseindia.com/invest/investors-home">
+                                                                    <figure>
+                                                                        <img src="https://static.nseindia.com/s3fs-public/2019-07/investor-home.png" alt="Investor&#39;s Home">
+                                                                    </figure>
+                                                                    <h4>Investor&#39;s Home</h4>
+                                                                    <p>Investor education on how to invest safely and protect your investments. </p>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    
+                                                        <div class="col-md-4 menuFootNote">
+                                                            <div class="content">
+                                                                <a href="https://www.nseindia.com/invest/first-time-investor-products">
+                                                                    <figure>
+                                                                        <img src="https://static.nseindia.com/s3fs-public/2019-07/product-home.png" alt="Product Information">
+                                                                    </figure>
+                                                                    <h4>Product Information</h4>
+                                                                    <p>Browse NSE products under Cash, derivatives, currency derivatives etc.</p>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    
+                                                        <div class="col-md-4 menuFootNote">
+                                                            <div class="content">
+                                                                <a href="https://investorhelpline.nseindia.com/NICEPLUS/">
+                                                                    <figure>
+                                                                        <img src="https://static.nseindia.com/s3fs-public/2019-07/nice-plus.png" alt="Login to NSE NICE Plus">
+                                                                    </figure>
+                                                                    <h4>Login to NSE NICE Plus</h4>
+                                                                    <p>File and Track your Complaint online.</p>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </li>
+                        
+                            <li class="nav-item dropdown  ">
+                                <a class="nav-link dd-link" href="javascript:;">List</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <div class="container">
+                                        <div class="row mrow">
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Raising Capital</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/raising-capital-onboarding-process">On-boarding Process</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/raising-capital-public-issues-eligibility-equity-debt">Primary Market - Main Board</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/raising-capital-public-issues-listing-on-emerge">Primary Market - SME</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/raising-capital-debt-private-placement">Debt - Private Placement</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/raising-capital-mutual-funds-etfs-process">Mutual Fund/ETFs</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/raising-capital-further-issues-main-board">Further Issues</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Corporate Filings</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/corporate-filings-announcements">Announcements</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/corporate-filings-board-meetings">Board Meetings</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/corporate-filings-actions">Corporate Actions</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/corporate-filings-financial-results">Financial Results</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/corporate-filings-shareholding-pattern">Shareholding Pattern</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="https://www.nseindia.com/corporates/corporateHome.html?id=recentissues">Offer Documents</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="https://www.nseindia.com/corporates/corporateHome.html?id=schemeofarrangement">Scheme of Arrangement</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Resources for Listed Companies</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/sebi-regulations">SEBI Regulations</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/quarterlyocompliances-for-companies">Compliance Information</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/xbrl-information">XBRL Information</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/corporate-filings-directory">Company Directory</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/circular-for-listed-companies-equity-market">Circulars to Listed Companies</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/companies-listing/listing-processing-fees-for-equity-segment">Processing &amp; Listing Fees</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                        <div class="btm_row_ddmenu">
+                                            <div class="container">
+                                                <div class="row">
+                                                    
+                                                        <div class="col-md-4 menuFootNote">
+                                                            <div class="content">
+                                                                <a href="https://www.nseindia.com/companies-listing/corporate-filings-application">
+                                                                    <figure>
+                                                                        <img src="https://static.nseindia.com/s3fs-public/2019-07/corporate-home.png" alt="Corporates Home">
+                                                                    </figure>
+                                                                    <h4>Corporates Home</h4>
+                                                                    <p>Important information, reference material and latest announcements for corporates</p>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    
+                                                        <div class="col-md-4 menuFootNote">
+                                                            <div class="content">
+                                                                <a href="https://www.nseindia.com/regulations/listing-compliance">
+                                                                    <figure>
+                                                                        <img src="https://static.nseindia.com/s3fs-public/2019-07/company-compliance-info.png" alt="Company Compliance Information">
+                                                                    </figure>
+                                                                    <h4>Company Compliance Information</h4>
+                                                                    <p>Status of compliance&#39;s under various Regulatory requirements</p>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    
+                                                        <div class="col-md-4 menuFootNote">
+                                                            <div class="content">
+                                                                <a href="https://www.connect2nse.com/LISTING/">
+                                                                    <figure>
+                                                                        <img src="https://static.nseindia.com/s3fs-public/2019-07/neaps-portal.png" alt="NEAPS Portal">
+                                                                    </figure>
+                                                                    <h4>NEAPS Portal</h4>
+                                                                    <p>Login for Listed Companies</p>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </li>
+                        
+                            <li class="nav-item dropdown  ">
+                                <a class="nav-link dd-link" href="javascript:;">Trade</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <div class="container">
+                                        <div class="row mrow">
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Become a Member</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/trade/admission-process-documents-to-become-a-member">Process &amp; FAQs</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/trade/membership-types">Eligibility Criteria &amp; Categories</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/trade/deposits-networth-requirements-for-membership">Fees, Deposits &amp; Networth</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/trade/membership-using-enit">Using ENIT</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Resources for Members</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/trade/members-change-in-name">Change In Membership</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/trade/members-compliance">Member Compliance</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/trade/membership-suspension-expulsion">Disciplinary Action</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/trade/membership-formats">Format</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Platforms &amp; Services</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/trade/platform-services-neat-trading-system">NSE Trading Technology</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/trade/platform-services-non-neat-front-end">NEAT &amp; Non-NEAT Front end</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/trade/platform-services-test-market-facility">Test Market Facility</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/trade/platform-services-connectivity">Connectivity &amp; User Id</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                        <div class="btm_row_ddmenu">
+                                            <div class="container">
+                                                <div class="row">
+                                                    
+                                                        <div class="col-md-4 menuFootNote">
+                                                            <div class="content">
+                                                                <a href="https://www.nseindia.com/trade/members-homepage">
+                                                                    <figure>
+                                                                        <img src="https://static.nseindia.com/s3fs-public/2019-07/members-home.png" alt="Member&#39;s Home">
+                                                                    </figure>
+                                                                    <h4>Member&#39;s Home</h4>
+                                                                    <p>Important Information, reference materials and latest announcements for members.</p>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    
+                                                        <div class="col-md-4 menuFootNote">
+                                                            <div class="content">
+                                                                <a href="https://ims.connect2nsccl.com/MemberPortal/">
+                                                                    <figure>
+                                                                        <img src="https://static.nseindia.com/s3fs-public/2019-07/members-portal.png" alt="Member Portal">
+                                                                    </figure>
+                                                                    <h4>Member Portal</h4>
+                                                                    <p>ENIT - A Portal for Trading Members of NSE to manage their Membership and Compliance requirements.</p>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    
+                                                        <div class="col-md-4 menuFootNote">
+                                                            <div class="content">
+                                                                <a href="https://www.nseindia.com/resources/exchange-communication-circulars">
+                                                                    <figure>
+                                                                        <img src="https://static.nseindia.com/s3fs-public/2019-07/exchange-comunication.png" alt="Exchange Communication">
+                                                                    </figure>
+                                                                    <h4>Exchange Communication</h4>
+                                                                    <p>Browse Exchange circulars, press release and media articles.</p>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </li>
+                        
+                            <li class="nav-item dropdown  ">
+                                <a class="nav-link dd-link" href="javascript:;">Regulation</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <div class="container">
+                                        <div class="row mrow">
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Exchange</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/regulations/exchange-market-regulations-rules-byelaws-nseil">Market Rules &amp; Regulations</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/regulations/exchange-market-surveillance-actions">Market Surveillance</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/regulations/exchange-disclosures-nsccl-iosco-core-sgf-default-waterfall">Exchange Disclosures</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/regulations/unsolicited-messages-report">Report Un-Solicited Messages</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/regulations/exchange-defaulting-clients">Defaulting Clients</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/submit-tipoff">Submit a Tip-Off</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Member</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/trade/members-compliance">Member Compliance</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/invest/complaint-arbitration-status">Complaint against Members</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/regulations/exchange-market-surveillance-regulatory-actions">Action against Members</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/regulations/member-sebi-debarred-entities">SEBI Debarred Entities</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/trade/members-consolidated-circulars">Circulars for Members</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/regulations/public-notice">Public Notice</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Corporates</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/regulations/listing-compliance">Company Compliance</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/resources/exchange-communication-circulars">Rumour Verification</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/regulations/list-of-companies-proposed-to-be-delisted">Companies proposed to be de-listed</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/regulations/queries-raised-to-listed-companies">Queries raised to Listed Companies</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/regulations/list-complaint-status-against-companies-report">Complaint Status against Companies</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/regulations/public-notice-compulsory-delisting">Public Notice</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </li>
+                        
+                            <li class="nav-item dropdown  ">
+                                <a class="nav-link dd-link" href="javascript:;">Learn</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <div class="container">
+                                        <div class="row mrow">
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Overview</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/learn/overview-about-nse-academy">About NSE Academy</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/learn/process-to-register-ncfm-nse-certification-in-financial-markets">Get started for NCFM</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/learn/self-study-ncfm-modules-all">Certification Modules</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/learn/ncfm-prepare-for-a-test">How to take a Test</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/learn/visit-nse-program">Visit To NSE</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Courses/Programs</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/learn/interactive-courses">Interactive/Online Courses</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/learn/recorded-courses">Recorded Courses</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/learn/class-room-courses">Class Room Courses</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/learn/post-graduate-program-full-time">Post Graduate Programs</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/learn/nse-management-development-program">Management Development</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Student Requirement</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/learn/courses-for-under-graduates">Modules for Under graduates</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/learn/courses-for-dealers">Modules for Dealers</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/learn/courses-for-working-professionals">Modules for Professionals</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="https://www.nseindia.com/education/content/module_ncfm.htm">Self-Study Courses &amp; Certifications</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                        <div class="btm_row_ddmenu">
+                                            <div class="container">
+                                                <div class="row">
+                                                    
+                                                        <div class="col-md-4 menuFootNote">
+                                                            <div class="content">
+                                                                <a href="https://www.nseindia.com/learn/find-a-course">
+                                                                    <figure>
+                                                                        <img src="https://static.nseindia.com/s3fs-public/2019-07/find-course.png" alt="Find a Course">
+                                                                    </figure>
+                                                                    <h4>Find a Course</h4>
+                                                                    <p>Search a course to enroll </p>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    
+                                                        <div class="col-md-4 menuFootNote">
+                                                            <div class="content">
+                                                                <a href="https://www.ncfm-india.com/ORE/OREloginPage.jsp">
+                                                                    <figure>
+                                                                        <img src="https://static.nseindia.com/s3fs-public/2019-07/NCFM.png" alt="NCFM Login">
+                                                                    </figure>
+                                                                    <h4>NCFM Login</h4>
+                                                                    <p>NCFM Portal for online testing and certification programmes offered by NSE Academy.</p>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    
+                                                        <div class="col-md-4 menuFootNote">
+                                                            <div class="content">
+                                                                <a href="https://www.nseindia.com/learn/academic-calendar">
+                                                                    <figure>
+                                                                        <img src="https://static.nseindia.com/s3fs-public/2019-07/program-cal.png" alt="Program Calendar">
+                                                                    </figure>
+                                                                    <h4>Program Calendar</h4>
+                                                                    <p>Click here to view Program Calendar</p>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+                                </div>
+                            </li>
+                        
+                            <li class="nav-item dropdown  ">
+                                <a class="nav-link dd-link" href="javascript:;">Resources</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <div class="container">
+                                        <div class="row mrow">
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Exchange Communication</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/resources/exchange-communication-circulars">Circulars</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/resources/exchange-communication-press-releases">Press Releases</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/products-services/equity-market-timings-holidays">Holidays</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/market-timings-holidays/contingency-drill-calendar">Contingency Drill</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/resources/exchange-communication-media-queries">Media Center</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Downloads</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/all-reports">Daily Market Reports</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/resources/historical-reports-capital-market-daily-monthly-archives">Historical Reports</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/resources/forms-formats-members">Forms &amp; Formats</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/national-stock-exchange/nse-volume-business-growth">Business Growth &amp; Volume</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                                <div class="col-md-4">
+                                                    <h3>Research Initiatives</h3>
+                                                    <ul class="nav flex-column">
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/resources/insights-working-paper-series">Working Paper Series</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/resources/insights-panel-discussions-seminars-corporate-governance">Panel Discussions &amp; Seminars</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/resources/insights-lecture-series-ongoing">Lecture Series</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/resources/research-initiative-financial-market-nse-nyu">Financial Research Initiatives</a>
+                                                            </li>
+                                                        
+                                                            <li class="nav-item">
+                                                                <a class="nav-link"
+                                                                   href="/resources/publications-indian-securities-ismr">Publications &amp; Reports</a>
+                                                            </li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </li>
+                        
+                        <!--<li class="nav-item active"> <a class="nav-link" href="/">Home</a> </li>
+                        <li class="nav-item"> <a class="nav-link" href="/market-data">Market Data </a> </li>
+                        <li class="nav-item"> <a class="nav-link" href="#">Invest</a> </li>
+                        <li class="nav-item"> <a class="nav-link" href="#">List</a> </li>
+                        <li class="nav-item"> <a class="nav-link" href="#">Trade</a> </li>
+                        <li class="nav-item"> <a class="nav-link" href="#">Regulations</a> </li>
+                        <li class="nav-item"> <a class="nav-link" href="#">Learn</a> </li>
+                        <li class="nav-item"> <a class="nav-link" href="#">Resources</a> </li>-->
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    </nav>
+</header>
+<div class="expandable_search">
+    <div class="expnd_searchbox">
+        <input type="search" placeholder="Search...." name="search" class="searchbox-input">
+        <input type="submit" class="searchbox-submit" value="GO">
+        <span class="searchbox-icon"><img src="/assets/images/expnd_search.svg" width="40" height="40" alt=""></span>
+    </div>
+</div>
+<!-- Accessibility Start -->
+<div class="setting_wrap">
+    <div class="setting_body">
+        <ul>
+            <li>Font size</li>
+            <li class="mb-2"><a href="javascript:increaseFont()" class="font_plus">A+</a> | <a href="javascript:resetFont()" class="font_reset">Reset</a> | <a href="javascript:decreaseFont()" class="font_minus">A-</a> </li>
+            <li>Contrast</li>
+            <li><a href="javascript:highContrast()" class="link_contrast1">High Contrast</a> | <a href="javascript:normalContrast()" class="link_contrast_reset">Reset</a>
+
+            </li>
+        </ul>
+    </div>
+
+
+</div>
+<div class="setting_btn">
+    <a href="javascript:;"><img src="/assets/images/accessible.svg" width="25" alt="Accessibility" title="Accessibility" /></a>
+</div>
+<div class="feedbackIconBtn">
+    <a target="_blank" href="https://www.surveymonkey.com/r/CZST76R"><img src="/assets/images/feedback-icon.svg" width="25" alt="Feedback" title="Feedback" /></a>
+</div>
+
+<!-- Accessibility End -->
+
+<div class="main">
+    <div class="errorContainer">
+    <h2>4</h2>
+    <img src="/assets/images/error-logo.png" alt="0">
+    <h2>4</h2>
+    <p>The Page you are trying to access doesn't appear to exist.</p>
+    <div class="gotoHome">
+        <a class="btn btn-common" href="/">Go to Homepage</a>
+    </div>
+</div>
+</div>
+<div id="error-snackbar"></div>
+<footer class="nav-folderized">
+    <div class="container">
+        <div class="row">
+            
+                <div class="col-md-3">
+                    <div class="foot-col foot-nav">
+                        <h6>About NSE</h6>
+                        <ul>
+                            
+                                <li><a href="/national-stock-exchange/about-nse-company">About Us</a></li>
+                            
+                                <li><a href="/structure-key-personnel/corporate-structure">Structure &amp; Key Personnel</a></li>
+                            
+                                <li><a href="/investor-relations/announcements">Investor Relations</a></li>
+                            
+                                <li><a href="/national-stock-exchange/awards-recognition">Awards and Recognitions</a></li>
+                            
+                                <li><a href="/regulation">Regulations</a></li>
+                            
+                                <li><a href="/event-gallery">Event Gallery</a></li>
+                            
+                                <li><a href="/resources/exchange-communication-media-center">Media</a></li>
+                            
+                                <li><a href="/products-services/equity-market-timings-holidays">Holidays</a></li>
+                            
+                                <li><a href="/careers-at-nse">Careers</a></li>
+                            
+                                <li><a href="/contact/contact-us">Contact Us</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            
+                <div class="col-md-3">
+                    <div class="foot-col foot-nav">
+                        <h6>NSE Group Companies</h6>
+                        <ul>
+                            
+                                <li><a href="/nse-academy/nse-academy-overview">NSE Academy</a></li>
+                            
+                                <li><a href="/nse-clearing">NSE Clearing</a></li>
+                            
+                                <li><a href="/nse-data-and-analytics">NSE Data &amp; Analytics</a></li>
+                            
+                                <li><a href="/nse-foundation/about-us">NSE Foundation</a></li>
+                            
+                                <li><a href="/nse-indices">NSE Indices</a></li>
+                            
+                                <li><a href="/nse-international-exchange/about">NSE International Exchange</a></li>
+                            
+                                <li><a href="/nseint_clearing/nse-international-clearing-overview">NSE International Clearing</a></li>
+                            
+                                <li><a href="/nse-investments">NSE Investments</a></li>
+                            
+                                <li><a href="/nseit">NSEIT</a></li>
+                            
+                                <li><a href="/nsetech">NSE Infotech</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            
+                <div class="col-md-2">
+                    <div class="foot-col foot-nav">
+                        <h6>Products &amp; Services</h6>
+                        <ul>
+                            
+                                <li><a href="/products-services/about-equity-market">Equity Market</a></li>
+                            
+                                <li><a href="/products-services/about-indices">Indices</a></li>
+                            
+                                <li><a href="/products-services/emerge-platform-about-sme">Emerge Platform</a></li>
+                            
+                                <li><a href="/products-services/mf-about-mfss">Mutual Funds</a></li>
+                            
+                                <li><a href="/products-services/about-equity-derivatives">Equity Derivatives</a></li>
+                            
+                                <li><a href="/products-services/about-currency-derivatives">Currency Derivatives</a></li>
+                            
+                                <li><a href="/products-services/about-commodity-derivatives">Commodity Derivatives</a></li>
+                            
+                                <li><a href="/products-services/about-interest-rate-derivatives">Interest Rate Derivatives</a></li>
+                            
+                                <li><a href="/products-services/about-corporate-bonds">Fixed Income and Debt</a></li>
+                            
+                                <li><a href="/products-services/about-initial-public-offerings">Public Issues</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            
+            <div class="col-md-4">
+                <div class="foot-col last">
+                    <div class="sep_links">
+                        <ul>
+                            <li><a href="/nse-disclaimer">Disclaimer</a></li>
+                            <li><a href="/nse-terms-of-use">Terms of Use</a></li>
+                            <li><a href="/nse-copyright">Copyright</a></li>
+                            <li><a href="/sitemap">Site Map</a></li>
+                        </ul>
+                    </div>
+                    <div class="mobapp_links">
+                        <ul class="d-flex w-100">
+                            <li>
+                                <h6>NSE MOBILE</h6>
+                                <p>
+                                    <a href="https://itunes.apple.com/in/app/nse-mobile-trading/id426758841?mt=8" target="_blank" rel="nofollow noopener" alt="Download NSE MOBILE on Apple Store" title=" Download NSE MOBILE on Apple Store">
+                                        <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+                                             width="20" height="20"
+                                             viewBox="0 0 50 50"
+                                             style="fill:#ffffff;">
+                                            <g id="surface1">
+                                                <path d="M 44.527344 34.75 C 43.449219 37.144531 42.929688 38.214844 41.542969 40.328125 C 39.601563 43.28125 36.863281 46.96875 33.480469 46.992188 C 30.46875 47.019531 29.691406 45.027344 25.601563 45.0625 C 21.515625 45.082031 20.664063 47.03125 17.648438 47 C 14.261719 46.96875 11.671875 43.648438 9.730469 40.699219 C 4.300781 32.429688 3.726563 22.734375 7.082031 17.578125 C 9.457031 13.921875 13.210938 11.773438 16.738281 11.773438 C 20.332031 11.773438 22.589844 13.746094 25.558594 13.746094 C 28.441406 13.746094 30.195313 11.769531 34.351563 11.769531 C 37.492188 11.769531 40.8125 13.480469 43.1875 16.433594 C 35.421875 20.691406 36.683594 31.78125 44.527344 34.75 Z M 31.195313 8.46875 C 32.707031 6.527344 33.855469 3.789063 33.4375 1 C 30.972656 1.167969 28.089844 2.742188 26.40625 4.78125 C 24.878906 6.640625 23.613281 9.398438 24.105469 12.066406 C 26.796875 12.152344 29.582031 10.546875 31.195313 8.46875 Z "></path>
+                                            </g>
+                                        </svg>
+                                    </a>
+                                    <a href="https://play.google.com/store/apps/details?id=com.msf.nse&hl=en_IN" target="_blank" rel="nofollow noopener" alt="Download NSE MOBILE on Google Play Store" title="Download NSE MOBILE on Google Play Store">
+                                        <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+                                             width="20" height="20"
+                                             viewBox="0 0 50 50"
+                                             style="fill:#ffffff;">
+                                            <g id="surface1">
+                                                <path d="M 7.125 2 L 28.78125 23.5 L 34.71875 17.5625 L 8.46875 2.40625 C 8.03125 2.152344 7.5625 2.011719 7.125 2 Z M 5.3125 3 C 5.117188 3.347656 5 3.757813 5 4.21875 L 5 46 C 5 46.335938 5.070313 46.636719 5.1875 46.90625 L 27.34375 24.90625 Z M 36.53125 18.59375 L 30.1875 24.90625 L 36.53125 31.1875 L 44.28125 26.75 C 45.382813 26.113281 45.539063 25.304688 45.53125 24.875 C 45.519531 24.164063 45.070313 23.5 44.3125 23.09375 C 43.652344 22.738281 38.75 19.882813 36.53125 18.59375 Z M 28.78125 26.3125 L 6.9375 47.96875 C 7.300781 47.949219 7.695313 47.871094 8.0625 47.65625 C 8.917969 47.160156 26.21875 37.15625 26.21875 37.15625 L 34.75 32.25 Z "></path>
+                                            </g>
+                                        </svg>
+                                    </a>
+                                </p>
+                            </li>
+                            <li>
+                                <h6>NSE NMFII </h6>
+                                <p>
+                                    <a href="https://itunes.apple.com/us/app/nse-nmf-ii/id1227619380?mt=8" target="_blank" rel="nofollow noopener" rel="nofollow noopener" alt="Download NSE NMFII on Apple Store" title="Download NSE NMFII on Apple Store">
+                                        <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+                                             width="20" height="20"
+                                             viewBox="0 0 50 50"
+                                             style="fill:#ffffff;">
+                                            <g id="surface1">
+                                                <path d="M 44.527344 34.75 C 43.449219 37.144531 42.929688 38.214844 41.542969 40.328125 C 39.601563 43.28125 36.863281 46.96875 33.480469 46.992188 C 30.46875 47.019531 29.691406 45.027344 25.601563 45.0625 C 21.515625 45.082031 20.664063 47.03125 17.648438 47 C 14.261719 46.96875 11.671875 43.648438 9.730469 40.699219 C 4.300781 32.429688 3.726563 22.734375 7.082031 17.578125 C 9.457031 13.921875 13.210938 11.773438 16.738281 11.773438 C 20.332031 11.773438 22.589844 13.746094 25.558594 13.746094 C 28.441406 13.746094 30.195313 11.769531 34.351563 11.769531 C 37.492188 11.769531 40.8125 13.480469 43.1875 16.433594 C 35.421875 20.691406 36.683594 31.78125 44.527344 34.75 Z M 31.195313 8.46875 C 32.707031 6.527344 33.855469 3.789063 33.4375 1 C 30.972656 1.167969 28.089844 2.742188 26.40625 4.78125 C 24.878906 6.640625 23.613281 9.398438 24.105469 12.066406 C 26.796875 12.152344 29.582031 10.546875 31.195313 8.46875 Z "></path>
+                                            </g>
+                                        </svg>
+                                    </a>
+                                    <a href="https://play.google.com/store/apps/details?id=coms.nsenmf.nsenmf&hl=en" target="_blank" rel="nofollow noopener" alt="Download NSE NMFII on Google Play Store" title="Download NSE NMFII on Google Play Store">
+                                        <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+                                             width="20" height="20"
+                                             viewBox="0 0 50 50"
+                                             style="fill:#ffffff;">
+                                            <g id="surface1">
+                                                <path d="M 7.125 2 L 28.78125 23.5 L 34.71875 17.5625 L 8.46875 2.40625 C 8.03125 2.152344 7.5625 2.011719 7.125 2 Z M 5.3125 3 C 5.117188 3.347656 5 3.757813 5 4.21875 L 5 46 C 5 46.335938 5.070313 46.636719 5.1875 46.90625 L 27.34375 24.90625 Z M 36.53125 18.59375 L 30.1875 24.90625 L 36.53125 31.1875 L 44.28125 26.75 C 45.382813 26.113281 45.539063 25.304688 45.53125 24.875 C 45.519531 24.164063 45.070313 23.5 44.3125 23.09375 C 43.652344 22.738281 38.75 19.882813 36.53125 18.59375 Z M 28.78125 26.3125 L 6.9375 47.96875 C 7.300781 47.949219 7.695313 47.871094 8.0625 47.65625 C 8.917969 47.160156 26.21875 37.15625 26.21875 37.15625 L 34.75 32.25 Z "></path>
+                                            </g>
+                                        </svg>
+                                    </a>
+                                </p>
+                            </li>
+                            <li>
+                                <h6>NSE  GO-BID  </h6>
+                                <p>
+
+                                    <a href="https://play.google.com/store/apps/details?id=com.xlx.eipodc" target="_blank" rel="nofollow noopener" alt="Download NSE GO-BID on Google Play Store" title="Download NSE MOBILE on Google Play Store">
+                                        <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+                                             width="20" height="20"
+                                             viewBox="0 0 50 50"
+                                             style="fill:#ffffff;">
+                                            <g id="surface1">
+                                                <path d="M 7.125 2 L 28.78125 23.5 L 34.71875 17.5625 L 8.46875 2.40625 C 8.03125 2.152344 7.5625 2.011719 7.125 2 Z M 5.3125 3 C 5.117188 3.347656 5 3.757813 5 4.21875 L 5 46 C 5 46.335938 5.070313 46.636719 5.1875 46.90625 L 27.34375 24.90625 Z M 36.53125 18.59375 L 30.1875 24.90625 L 36.53125 31.1875 L 44.28125 26.75 C 45.382813 26.113281 45.539063 25.304688 45.53125 24.875 C 45.519531 24.164063 45.070313 23.5 44.3125 23.09375 C 43.652344 22.738281 38.75 19.882813 36.53125 18.59375 Z M 28.78125 26.3125 L 6.9375 47.96875 C 7.300781 47.949219 7.695313 47.871094 8.0625 47.65625 C 8.917969 47.160156 26.21875 37.15625 26.21875 37.15625 L 34.75 32.25 Z "></path>
+                                            </g>
+                                        </svg>
+                                    </a>
+                                </p>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="follow_links">
+                        <h6>Follow us on</h6>
+                        <ul class="d-flex  w-100">
+                            <li><a href="https://www.facebook.com/NationalStockExchange/" target="_blank" rel="nofollow noopener" alt="Follow us our Facebook" title="Follow us our Facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://twitter.com/NSEIndia?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank" rel="nofollow noopener" alt="Follow us our Twitter" title="Follow us our Twitter"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://in.linkedin.com/company/national-stock-exchange-of-india-limited" target="_blank" rel="nofollow noopener" alt="Follow us our LinkedIn" title="Follow us our LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.youtube.com/user/NSEIL1india" target="_blank" rel="nofollow noopener" alt="Subscribe us our Youtube" title="Subscribe us our Youtube"><i class="fa fa-youtube-play"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row copyright"><a href="/nse-copyright">Copyright &copy; 2019</a> National Stock Exchange of India Ltd. All rights reserved. Best viewed in Chrome and 1366 X 768 resolution.</div>
+    </div>
+</footer>
+
+
+<div id="quickLinkBtn">
+    <h5>Quick Links</h5>
+</div>
+<div class="footer_strip">
+    <ul class="footer-tabs align-items-center justify-content-center">
+        <li><a onclick="getNifty50Data()"><h5> QUICK LINKS</h5></a></li>
+        <li><a onclick="getNifty50Data()" href="#" data-toggle="modal" data-dismiss="modal" data-target="#qlink_investors" class="link_investors"><h5>FOR INVESTORS</h5></a></li>
+        <li><a href="#" data-toggle="modal" data-dismiss="modal" data-target="#qlink_corporates" class="link_corporates"><h5>FOR CORPORATES</h5></a></li>
+        <li><a href="#" data-toggle="modal" data-dismiss="modal" data-target="#qlink_members" class="link_members"><h5>FOR MEMBERS</h5></a></li>
+        <li><!--<a class="oldSite" href="https://www.nseindia.com/index_nse.htm" target="_blank"><h5>OLD WEBSITE</h5></a>--></li>
+    </ul>
+</div>
+
+
+<!-- quick links modal investors -->
+<div class="modal fade qlinks_modal" id="qlink_investors" data-keyboard="false">
+    <div class="modal-dialog modal-full">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="container posrel">
+                    <h4 class="modal-title text-uppercase">Quick Links for Investors</h4>
+                    <p class="m-0">Dashboard for end of day reports download, quick market snapshot and important announcements.</p>
+                    <button type="button" class="close" data-dismiss="modal"></button>
+                </div>
+            </div>
+            <div class="modal-body pt-0">
+                <section class="common-tabs quicklinks-tabs">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <nav class="text-uppercase border-0">
+                                    <div class="nav nav-tabs" role="tablist"> <a class="nav-item nav-link active" data-toggle="tab" href="#qinvest_equity_mr" role="tab">Equity Market Report</a>
+                                        <a class="nav-item nav-link" data-toggle="tab" href="#qinvest_deriv_mr" role="tab" aria-selected="false">Derivatives Market Report</a>
+                                        <a class="nav-item nav-link" data-toggle="tab" href="#qinvest_debt_mr" role="tab" aria-selected="false">Debt Market Report</a>
+                                    </div>
+                                </nav>
+                                <div class="tab-content">
+                                    <div class="tab-pane fade show active" id="qinvest_equity_mr" role="tabpanel">
+                                        <div class="shadow-box withpadding round-border">
+                                            <div class="row align-items-center mt-3 mb-4">
+                                                <div id="QLEquityMarket_SelectAll" class="col-md-6 col-6">
+                                                    <label data-container="QLEquityMarket" class="chk_container selectAll">Select All
+                                                        <input type="checkbox">
+                                                        <span class="checkmark"></span>
+                                                    </label>
+                                                    <a onclick="downloadReports('#QLEquityMarket', 'daily')" href="javascript:;" class="link ml-4"> Multiple file Download <i class="fa fa-download"></i></a>
+                                                </div>
+                                                <div class="col-md-6 col-6 text-right">
+                                                    <div class="link-view-all text-right">
+                                                        <a href="/all-reports">Customize Reports for Download <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div id="QLEquityMarket" class="row my-3">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="qinvest_deriv_mr" role="tabpanel">
+                                        <div class="shadow-box withpadding round-border">
+                                            <div class="row align-items-center mt-3 mb-4">
+                                                <div id="QLEquityMarket_SelectAll" class="col-md-6 col-6">
+                                                    <label data-container="QLDerivativeMarket" class="chk_container selectAll">Select All
+                                                        <input type="checkbox">
+                                                        <span class="checkmark"></span>
+                                                    </label>
+                                                    <a onclick="downloadReports('#QLDerivativeMarket', 'daily')" href="javascript:;" class="link ml-4"> Multiple file Download <i class="fa fa-download"></i></a>
+                                                </div>
+                                                <div class="col-md-6 col-6 text-right">
+                                                    <div class="link-view-all text-right">
+                                                        <a href="/all-reports?type=derivative">Customize Reports for Download <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div id="QLDerivativeMarket" class="row my-3">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="qinvest_debt_mr" role="tabpanel">
+                                        <div class="shadow-box withpadding round-border">
+                                            <div class="row align-items-center mt-3 mb-4">
+                                                <div id="QLDebtMarket_SelectAll" class="col-md-6 col-6">
+                                                    <label data-container="QLDebtMarket" class="chk_container selectAll">Select All
+                                                        <input type="checkbox">
+                                                        <span class="checkmark"></span>
+                                                    </label>
+                                                    <a onclick="downloadReports('#QLDebtMarket', 'daily')" href="javascript:;" class="link ml-4"> Multiple file Download <i class="fa fa-download"></i></a>
+                                                </div>
+                                                <div class="col-md-6 col-6 text-right">
+                                                    <div class="link-view-all text-right">
+                                                        <a href="/all-reports?type=debt">Customize Reports for Download <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div id="QLDebtMarket" class="row my-3">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div id="qlMarketStatus" class="mktsnapshot_section">
+                                    <div class="card shadow-box">
+                                        <div class="card-header">
+                                            <div class="row">
+                                                <div class="col-md-7">
+                                                    <h4>Market Snapshot</h4>
+                                                    <p class="m-0"><span class="asondate">As on <span></span> IST</span></p>
+                                                </div>
+                                                <div class="col-md-5">
+                                                    <div class="link-view-all text-right">
+                                                        <a href="/market-data/analysis-and-tools-capital-market-snapshot">View Details <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="card-body">
+                                            <div class="mkt_updown">
+                                                <label class="m-0">NIFTY50</label>
+                                                <div class="content">
+                                                    <span class="val">-</span>
+                                                    <span class="arrow arrow-up-green"></span>
+                                                    <span class="val_per">-</span>
+                                                </div>
+                                            </div>
+                                            <hr class="m-edge">
+                                            <div class="stats_ochl">
+                                                <div class="row">
+                                                    <div class="col-md-3 col-sm-3 col-3">
+                                                        <label>Open</label>
+                                                        <p id="qlopen">-</p>
+                                                    </div>
+                                                    <div class="col-md-3 col-sm-3 col-3">
+                                                        <label>High</label>
+                                                        <p id="qlhigh">-</p>
+                                                    </div>
+                                                    <div class="col-md-3 col-sm-3 col-3">
+                                                        <label>Low</label>
+                                                        <p id="qllow">-</p>
+                                                    </div>
+                                                    <div class="col-md-3 col-sm-3 col-3">
+                                                        <label>Close</label>
+                                                        <p id="qlclose">-</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr class="m-edge">
+                                            <div class="stats_ochl">
+                                                <div class="row">
+                                                    <div class="col-md-4 col-4">
+                                                        <div class="d-flex flex-column">
+                                                            <p class="val_heading">Volume <small>(Shares)</small></p>
+                                                            <p class="mkt_val" id="qlvolume"></p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-4 col-4">
+                                                        <div class="d-flex flex-column">
+                                                            <p class="val_heading">Value <small>(Lakhs)</small></p>
+                                                            <p class="mkt_val" id="qlvalue"></p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-4 col-4">
+                                                        <div class="d-flex flex-column">
+                                                            <p class="val_heading" title="Free Float Market Capitalization (in Rs. Lakhs)">FFM .Cap <small>(Lakhs)</small></p>
+                                                            <p class="mkt_val" id="qlffmc"></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!--<div class="volval">
+                                                <ul>
+                                                    <li><label>Volume <small>(Shares)</small> -</label> <span id="qlvolume"> </span></li>
+                                                    <li><Label>Value -</Label> <span id="qlvalue">-</span></li>
+                                                    <li><label>Free float market capitalization -</label> <span id="qlffmc"></span></li>
+                                                </ul>
+                                            </div>-->
+                                            <div class="mktslider mt-2">
+                                                <div class="slider_wrap">
+                                                    <div class="rangeslider-wrap">
+                                                        <input id="qlrangeslider2" type="range"
+                                                               min="283.50" max="300.00"
+                                                               step="0.05" value="285"/>
+                                                    </div>
+                                                </div>
+                                                <div class="labels">
+                                                    <label id="qlwhlMin" class="left m-0 mr-auto">- <small>-</small></label>
+                                                    <label id="qlwhlMax" class="right m-0 ml-auto"><small>-</small> -</label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end quick links modal investors -->
+
+<!-- quick link for corporates -->
+<div class="modal fade qlinks_modal" id="qlink_corporates" data-keyboard="false">
+    <div class="modal-dialog modal-full">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="container posrel">
+                    <div class="row">
+                        <div class="col-md-12 d-flex flex-row">
+                            <h4 class="modal-title text-uppercase">Quick Links for Corporates</h4>
+                            <p class="m-0">Dashboard for tracking corporate filings</p>
+                        </div>
+                    </div>
+                    <div class="row mt-2">
+                        <div class="col-md-12">
+                            <h5 class="text-uppercase">Latest Corporate Filings</h5>
+                        </div>
+                    </div>
+                    <button type="button" class="close" data-dismiss="modal"></button>
+                </div>
+            </div>
+            <div class="modal-body pt-0">
+                <section class="common-tabs quicklinks-tabs">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <nav class="text-uppercase border-0">
+                                    <ul id="QLCorpTab" class="nav nav-tabs" role="tablist">
+                                        <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#qlink_corporate_01" role="tab">All Companies</a></li>
+                                        <!--<li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#qlink_corporate_02" role="tab" aria-selected="false">NETF</a></li>
+                                        <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#qlink_corporate_03" role="tab" aria-selected="false">TATAELXI</a></li>
+                                        <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#qlink_corporate_04" role="tab" aria-selected="false">TATACOMMM</a></li>
+                                        <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#qlink_corporate_05" role="tab" aria-selected="false">Empty</a></li>-->
+                                    </ul>
+                                </nav>
+                                <div id="QLCorpContainer" class="tab-content">
+                                    <div class="tab-pane fade show active" id="qlink_corporate_01" role="tabpanel">
+                                        <div class="shadow-box withpadding round-border min-card-height">
+                                            <div class="all_companies mt-3">
+                                                <div class="form-group">
+                                                    <label>Use this section to track the latest corporate filings by 5 companies of your choice</label>
+                                                    <div class="search_companies">
+                                                        <div class="row">
+                                                            <div class="col-md-8 position-relative">
+                                                                <div class="input-group">
+                                                                    <input type="text" class="form-control QLAutocomplete typeahead" placeholder="Search by company name or symbol" aria-label="" aria-describedby="basic-addon1">
+                                                                    <div class="input-group-append">
+                                                                        <button class="btn border border-left-0" type="button"><img src="/assets/images/Get_Quote_search.svg" width="16" height="16" /> </button>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="selected_list mt-4">
+                                                    <h3>Showing <span id="companyCount">0</span> of 5 selected Companies</h3>
+                                                    <div id="QLCorporateCompanies" class="row mt-3"></div>
+                                                    <div class="btn_wrap mt-2">
+                                                        <a onclick="genComTab()" href="javascript:;" class="btn flat-button-orange">Launch</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="qlink_corporate_02" role="tabpanel">
+                                        <div class="shadow-box withpadding round-border min-card-height">
+                                            <div class="table-wrap borderSet maxHeight-350 scrollWrap">
+                                                <div id="QLCorpWrapper" class="wordBreak"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="latest_circulars">
+                                    <h2 class="section-heading text-uppercase">Latest Circulars</h2>
+                                    <div class="card shadow-box">
+                                        <nav class="text-uppercase border-0">
+                                            <ul class="nav nav-tabs nav-justified withborder" role="tablist">
+                                                <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#circulars_equity" role="tab">Equity</a></li>
+                                                <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#circulars_debt" role="tab" aria-selected="false">DEBT</a></li>
+                                            </ul>
+                                        </nav>
+                                        <div class="tab-content">
+                                            <div class="tab-pane fade show active" id="circulars_equity" role="tabpanel">
+                                                <div id="circulars_equity_data">
+
+                                                </div>
+                                                <!--<div class="p-3">
+                                                    <p class="asondate mb-1">As on 1st Jan 2019, 16:00 IST</p>
+                                                    <p class="mb-0">Schemes involving merger of a wholly owned subsidiary or or its division with the parent company</p>
+                                                </div>
+                                                <hr class="m-0">
+                                                <div class="p-3">
+                                                    <p class="asondate mb-1">As on 1st Jan 2019, 16:00 IST</p>
+                                                    <p class="mb-0">Misuse of Exchange platform provided for Corporate Announcement</p>
+                                                </div>-->
+
+                                                <div class="link-view-all text-right mt-1">
+                                                    <a href="/companies-listing/circular-for-listed-companies-equity-market">View All <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="tab-pane fade" id="circulars_debt" role="tabpanel">
+                                                <div id="circulars_debt_data">
+                                                    <div class="p-3">
+                                                        <p class="asondate mb-1">As on 1st Jan 2019, 16:00 IST</p>
+                                                        <p class="mb-0">Schemes involving merger of a wholly owned subsidiary or or its division with the parent company</p>
+                                                    </div>
+                                                    <hr class="m-0">
+                                                    <div class="p-3">
+                                                        <p class="asondate mb-1">As on 1st Jan 2019, 16:00 IST</p>
+                                                        <p class="mb-0">Misuse of Exchange platform provided for Corporate Announcement</p>
+                                                    </div>
+                                                    <hr class="m-0">
+                                                </div>
+                                                <div class="link-view-all text-right mt-1">
+                                                    <a href="/companies-listing/circular-for-listed-companies-debt-market">View All <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="mt-3">
+                                        <a href="/companies-listing/corporate-filings-application" class="btn rounded_orange_btn">Go to Corporates Dashboard</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end quick link for corporates -->
+
+<!-- quick links modal members -->
+<div class="modal fade qlinks_modal" id="qlink_members" data-keyboard="false">
+    <div class="modal-dialog modal-full">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="container posrel">
+                    <h4 class="modal-title text-uppercase">Quick Links for Members</h4>
+                    <button type="button" class="close" data-dismiss="modal"></button>
+                </div>
+            </div>
+            <div class="modal-body">
+                <section class="common-tabs quicklinks-tabs">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <nav class="text-uppercase border-0">
+                                    <ul class="nav nav-tabs" role="tablist">
+                                        <li class="nav-item">
+                                            <a class="nav-link active" data-toggle="tab" href="#q_members_circulars" role="tab">Latest Circulars</a></li>
+                                        <li class="nav-item"><a class="nav-link med-nav-link" data-toggle="tab" href="#q_members_trading" role="tab" aria-selected="false">Trading</a></li>
+                                        <li class="nav-item"><a class="nav-link med-nav-link" data-toggle="tab" href="#q_members_clearing" role="tab" aria-selected="false">Clearing</a></li>
+                                        <li class="nav-item"><a class="nav-link med-nav-link" data-toggle="tab" href="#q_members_listing" role="tab" aria-selected="false">Listing</a></li>
+                                        <li class="nav-item"><a class="nav-link med-nav-link" data-toggle="tab" href="#q_members_compliance" role="tab" aria-selected="false">Compliance</a></li>
+                                        <li class="nav-item"><a class="nav-link med-nav-link" data-toggle="tab" href="#q_members_others" role="tab" aria-selected="false">Others</a></li>
+                                    </ul>
+                                </nav>
+                                <div class="tab-content">
+                                    <div class="tab-pane fade show active" id="q_members_circulars" role="tabpanel">
+                                        <div class="shadow-box withpadding round-border">
+                                            <div class="row align-items-center mt-3 mb-4">
+                                                <div class="col-md-6 col-6">
+                                                    <label data-container="memberCircular" class="chk_container selectAll">Select All
+                                                        <input type="checkbox">
+                                                        <span class="checkmark"></span>
+                                                    </label>
+                                                    <a onclick="genDownloadLink('memberCircular')" href="javascript:;" class="link ml-4"> Download <i class="fa fa-download"></i></a>
+                                                </div>
+                                                <div class="col-md-6 col-6 text-right">
+                                                    <a href="/resources/exchange-communication-circulars" class="link">View All Circulars <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="circular_press_media circular_container">
+                                                <div id="memberCircular" class="position-relative"></div>
+                                            </div>
+                                        </div>
+                                        <div class="row mt-3">
+                                            <div class="col-md-12 col-12 text-right">
+                                                <a href="http://feeds.feedburner.com/nseindia/circulars" target="_blank" class="link">Subscribe to RSS Feed <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="q_members_trading" role="tabpanel">
+                                        <div class="shadow-box withpadding round-border">
+                                            <div class="row align-items-center mt-3 mb-4">
+                                                <div class="col-md-6 col-6">
+                                                    <label data-container="memberTrading" class="chk_container selectAll">Select All
+                                                        <input type="checkbox">
+                                                        <span class="checkmark"></span>
+                                                    </label>
+                                                    <a onclick="genDownloadLink('memberTrading')" href="javascript:;" class="link ml-4"> Download <i class="fa fa-download"></i></a>
+                                                </div>
+                                                <div class="col-md-6 col-6 text-right">
+                                                    <a href="/resources/exchange-communication-circulars" class="link">View All Circulars <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="circular_press_media circular_container">
+                                                <div id="memberTrading" class="position-relative"></div>
+                                            </div>
+                                        </div>
+                                        <div class="row mt-3">
+                                            <div class="col-md-12 col-12 text-right">
+                                                <a href="http://feeds.feedburner.com/nseindia/circulars" target="_blank" class="link">Subscribe to RSS Feed <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="q_members_clearing" role="tabpanel">
+                                        <div class="shadow-box withpadding round-border">
+                                            <div class="row align-items-center mt-3 mb-4">
+                                                <div class="col-md-6 col-6">
+                                                    <label data-container="memberClearing" class="chk_container selectAll">Select All
+                                                        <input type="checkbox">
+                                                        <span class="checkmark"></span>
+                                                    </label>
+                                                    <a onclick="genDownloadLink('memberClearing')" href="javascript:;" class="link ml-4"> Download <i class="fa fa-download"></i></a>
+                                                </div>
+                                                <div class="col-md-6 col-6 text-right">
+                                                    <a href="/resources/exchange-communication-circulars" class="link">View All Circulars <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="circular_press_media circular_container">
+                                                <div id="memberClearing" class="position-relative"></div>
+                                            </div>
+                                        </div>
+                                        <div class="row mt-3">
+                                            <div class="col-md-12 col-12 text-right">
+                                                <a href="http://feeds.feedburner.com/nseindia/circulars" target="_blank" class="link">Subscribe to RSS Feed <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="q_members_listing" role="tabpanel">
+                                        <div class="shadow-box withpadding round-border">
+                                            <div class="row align-items-center mt-3 mb-4">
+                                                <div class="col-md-6 col-6">
+                                                    <label data-container="memberListing" class="chk_container selectAll">Select All
+                                                        <input type="checkbox">
+                                                        <span class="checkmark"></span>
+                                                    </label>
+                                                    <a onclick="genDownloadLink('memberListing')" href="javascript:;" class="link ml-4"> Download <i class="fa fa-download"></i></a>
+
+                                                </div>
+                                                <div class="col-md-6 col-6 text-right">
+                                                    <a href="/resources/exchange-communication-circulars" class="link">View All Circulars <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="circular_press_media circular_container">
+                                                <div id="memberListing" class="position-relative"></div>
+                                            </div>
+                                        </div>
+                                        <div class="row mt-3">
+                                            <div class="col-md-12 col-12 text-right">
+                                                <a href="http://feeds.feedburner.com/nseindia/circulars" target="_blank" class="link">Subscribe to RSS Feed <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="q_members_compliance" role="tabpanel">
+                                        <div class="shadow-box withpadding round-border">
+                                            <div class="row align-items-center mt-3 mb-4">
+                                                <div class="col-md-6 col-6">
+                                                    <label data-container="memberCompliance" class="chk_container selectAll">Select All
+                                                        <input type="checkbox">
+                                                        <span class="checkmark"></span>
+                                                    </label>
+                                                    <a onclick="genDownloadLink('memberCompliance')" href="javascript:;" class="link ml-4"> Download <i class="fa fa-download"></i></a>
+                                                </div>
+                                                <div class="col-md-6 col-6 text-right">
+                                                    <a href="/resources/exchange-communication-circulars" class="link">View All Circulars <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="circular_press_media circular_container">
+                                                <div id="memberCompliance" class="position-relative"></div>
+                                            </div>
+                                        </div>
+                                        <div class="row mt-3">
+                                            <div class="col-md-12 col-12 text-right">
+                                                <a href="http://feeds.feedburner.com/nseindia/circulars" target="_blank" class="link">Subscribe to RSS Feed <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="q_members_others" role="tabpanel">
+                                        <div class="shadow-box withpadding round-border">
+                                            <div class="row align-items-center mt-3 mb-4">
+                                                <div class="col-md-6 col-6">
+                                                    <label data-container="memberOthers" class="chk_container selectAll">Select All
+                                                        <input type="checkbox">
+                                                        <span class="checkmark"></span>
+                                                    </label>
+                                                    <a onclick="genDownloadLink('memberOthers')" href="javascript:;" class="link ml-4"> Download <i class="fa fa-download"></i></a>
+                                                </div>
+                                                <div class="col-md-6 col-6 text-right">
+                                                    <a href="/resources/exchange-communication-circulars" class="link">View All Circulars <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <div class="circular_press_media circular_container">
+                                                <div id="memberOthers" class="position-relative"></div>
+                                            </div>
+                                        </div>
+                                        <div class="row mt-3">
+                                            <div class="col-md-12 col-12 text-right">
+                                                <a href="http://feeds.feedburner.com/nseindia/circulars" target="_blank" class="link">Subscribe to RSS Feed <img src="/assets/images/Read_more_CTA.svg" width="14" height="10" alt=""></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="mktsnapshot_section">
+                                    <div class="card shadow-box">
+                                        <div class="card-header">
+                                            <h4>Members Message Area</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <p class="m-0"> Exchange has published Member Help Guide and new FAQs for Access to Markets. Visit the link: https://beta.nseindia.com/trade/all-member-faqs.</p>
+                                        </div>
+                                    </div>
+                                    <div class="card shadow-box mt-3">
+                                        <div class="card-header">
+                                            <h4>Contact for Support</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <p>- Trade Support <a href="tel:18002660053">1800 266 0053</a> (Toll Free)/ <br/> <a href="tel:02262157600">022 62157600</a> (billed)</p>
+                                            <p>- Compliance Support <a href="tel:18002660058">1800 266 0058</a> <br/>(Toll free Option – 1)</p>
+                                            <p>- 08:00 AM to 02:00 AM on subsequent day <br/> (Monday to Friday)</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end quick links modal members -->
+
+<!-- select indices modal-->
+<div class="modal fade indices_modal" id="selectIndicesModal">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <h4 class="modal-title">Select Indices</h4>
+                <p>Choose upto 5 indices that you would like to view the market trend for.</p>
+                <button type="button" class="close" data-dismiss="modal"></button>
+            </div>
+            <!-- Modal body -->
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-7">
+                        <div class="row">
+                            <div class="col-md-4 col-sm-4">
+                                <div class="select-col">
+                                    <h5>Broad Market Indices</h5>
+                                    <ul>
+                                        <li>
+                                            <label class="chk_container">NIFTY 50 Pre Open
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY 50
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY NEXT 50
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY 100
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY 200
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY 500
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY MIDCAP 50
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY MIDCAP 100
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY SMLCAP 100
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">INDIA VIX
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-4">
+                                <div class="select-col">
+                                    <h5>Sectoral Indices</h5>
+                                    <ul>
+                                        <li>
+                                            <label class="chk_container">NIFTY BANK
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY AUTO
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY FIN SERVICE
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY FMCG
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY IT
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY MEDIA
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY METAL
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY PHARMA
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY PSU BANK
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY PVT BANK
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-4">
+                                <div class="select-col">
+                                    <h5>Fixed Income Indices</h5>
+                                    <ul>
+                                        <li>
+                                            <label class="chk_container">NIFTY GS8 13YR
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY GS8 10YR
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY GS8 10YR CLN
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY GS 4 8YR
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY GS 11 15YR
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY GS 15YRPLUS
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY GS COMPOSITE
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-5">
+                        <div class="select-col">
+                            <h5>Other Indices</h5>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 col-sm-6">
+                                <div class="select-col">
+                                    <ul>
+                                        <li>
+                                            <label class="chk_container">NIFTY COMMODITIES
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY CONSUMPTION
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY CPSE
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY DIV OPPS 50
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY ENERGY
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY GROWSECT 15
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY INFRA
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY100 LIQ 15
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY MID LIQ 15
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY MNC
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY PSU
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-6">
+                                <div class="select-col">
+                                    <ul>
+                                        <li>
+                                            <label class="chk_container">NIFTY100 QUALTY30
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY SERV SECTOR
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY50 VALUE 20
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY50 TR 2X LEV
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY50 PR 2X LEV
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY50 TR 1X INV
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY50 PR 1X INV
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY ALPHA 50
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY50 EQL WGT
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY100 EQL WGT
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label class="chk_container">NIFTY100 LOWVOL30
+                                                <input type="checkbox">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal footer -->
+            <div class="modal-footer">
+                <div class="btn_wrap">
+                    <a href="#" class="btn btn-common">Use Default</a>
+                    <a href="#" class="btn btn-common btn-solid">Confirm</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end select indices modal-->
+
+<script src="/dist/js/components/quick-links.js" async></script>
+
+<script src="/assets/js/jquery-3.3.1.min.js"></script>
+<script src="/assets/js/popper.min.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+<script src="/assets/js/jquery.responsivetabs.js"></script>
+<script src="/assets/js/jquery.mCustomScrollbar.min.js"></script>
+<script type="text/javascript" src="/assets/js/slick.min.js"></script>
+<script src="/assets/js/bootstrap-multiselect.min.js"></script>
+<script src="/assets/js/stock/highstock.js"></script>
+<script src="/assets/js/rangeslider.min.js"></script>
+<script src="/assets/js/gijgo.min.js"></script>
+<script src="/assets/js/excellentexport.js"></script>
+<script src="/assets/js/typeahead.bundle.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-polyfills/0.1.42/polyfill.min.js"></script>
+<script src="/assets/js/metisMenu.min.js"></script>
+<script src="/dist/js/static/public/assets/js/common.js"></script>
+
+</body>
+
+</html>
